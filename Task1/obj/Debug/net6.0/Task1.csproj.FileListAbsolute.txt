@@ -1,0 +1,15 @@
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/bin/Debug/net6.0/Task1
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/bin/Debug/net6.0/Task1.deps.json
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/bin/Debug/net6.0/Task1.dll
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/bin/Debug/net6.0/Task1.pdb
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/obj/Debug/net6.0/Task1.dll
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/obj/Debug/net6.0/refint/Task1.dll
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/obj/Debug/net6.0/Task1.pdb
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache
+/Users/taiankakurkutova/Desktop/Семинар 5/Task1/obj/Debug/net6.0/ref/Task1.dll
